@@ -1,4 +1,8 @@
-# Default starter for Gridsome
+# gridsome-images-directive-bug
+
+An example Gridsome project demonstrating a bug with `app/directives/images.js`.
+
+# Using default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.
 
