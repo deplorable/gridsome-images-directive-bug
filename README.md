@@ -1,6 +1,6 @@
 # gridsome-images-directive-bug
 
-An example Gridsome project demonstrating a bug with `app/directives/images.js`.
+An example Gridsome project demonstrating a bug with `node_modules/gridsome/app/directives/image.js`.
 
 # Using default starter for Gridsome
 
