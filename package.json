@@ -7,6 +7,14 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.0",
+    "vuetify": "^2.2.29"
+  },
+  "devDependencies": {
+    "deepmerge": "^4.2.2",
+    "fibers": "^5.0.0",
+    "sass-loader": "^7.3.1",
+    "vuetify-loader": "^1.4.3",
+    "webpack-node-externals": "^1.7.2"
   }
 }
